@@ -55,7 +55,7 @@ with ApiClient(configuration) as api_client:
 
     # Save data to Google Sheet
     # Replace 'YOUR_SPREADSHEET_ID' with your actual Google Sheets spreadsheet ID
-    SPREADSHEET_ID = '1ZnrSM7vo-etQSGFSOybwVr--VMSV3tlDiSGMx5gmBVY'
+    SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID'
     RANGE_NAME = 'Sheet1!A1'  # Adjust as needed
 
     # Authenticate and build the service
